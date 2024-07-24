@@ -7,3 +7,6 @@ yts 0:
 ddg 1:
   title: DuckDuckGo
   url: http://duckduckgo.com/?q=<query>
+r/ 1:
+  title: Subreddit
+  url: http://old.reddit.com/r/<query>
