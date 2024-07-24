@@ -1,11 +1,11 @@
 # Documentation:
 # https://trovu.net/docs/users/advanced/#custom-configuration
 namespaces:
-- o
-- en
-- .au
-- url: ttps://raw.githubusercontent.com/novafurry/trovu-config/master/shortcuts.yml
-  name: main
-defaultKeyword: g 
+  - o
+  - en
+  - .au
+  - url: https://raw.githubusercontent.com/novafurry/trovu-config/master/shortcuts.yml
+    name: main
+#defaultKeyword: g 
 language: en
 country: au
